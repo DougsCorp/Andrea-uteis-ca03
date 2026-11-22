@@ -1,0 +1,22 @@
+﻿{
+    "meta_pixel_id":  "1713214040200404",
+    "related_ca_folder":  "Andrea-bm02-ca03",
+    "ca_id":  "ca03",
+    "bm_id":  "bm02",
+    "operator":  "Andrea",
+    "ga_measurement_id":  "G-PTY57M66PW",
+    "full_url":  "https://mnn.uteishub.com",
+    "subdomain":  "mnn",
+    "github_repo":  "DougsCorp/Andrea-uteis-ca03",
+    "status":  "deployed",
+    "product":  "CogniClear",
+    "notes":  "Subdominio mnn em uteishub.com para Andrea CA3 (mesmo CA do go3); quiz v2 em /quiz-mm-v2/",
+    "domain":  "uteishub.com",
+    "pages":  [
+                  {
+                      "path":  "/quiz-mm-v2/",
+                      "template":  "Quiz-ps-CogniClear-v2",
+                      "type":  "ps"
+                  }
+              ]
+}
